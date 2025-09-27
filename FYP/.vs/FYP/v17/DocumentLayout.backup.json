@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\FYP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33E225CF-BF6E-4A1A-8582-716ED7E7D94B}|C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\downloads\\blazorapp1\\blazorapp1\\blazorapp1\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E225CF-BF6E-4A1A-8582-716ED7E7D94B}|C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\downloads\\blazorapp1\\blazorapp1\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E225CF-BF6E-4A1A-8582-716ED7E7D94B}|C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\downloads\\blazorapp1\\blazorapp1\\blazorapp1\\components\\pages\\formuser.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E225CF-BF6E-4A1A-8582-716ED7E7D94B}|C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\downloads\\blazorapp1\\blazorapp1\\blazorapp1\\components\\pages\\userdashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E225CF-BF6E-4A1A-8582-716ED7E7D94B}|C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\downloads\\blazorapp1\\blazorapp1\\blazorapp1\\components\\pages\\formdoc.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E225CF-BF6E-4A1A-8582-716ED7E7D94B}|C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\downloads\\blazorapp1\\blazorapp1\\blazorapp1\\service\\uservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E225CF-BF6E-4A1A-8582-716ED7E7D94B}|C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\downloads\\blazorapp1\\blazorapp1\\blazorapp1\\service\\idservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E225CF-BF6E-4A1A-8582-716ED7E7D94B}|C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\downloads\\blazorapp1\\blazorapp1\\blazorapp1\\service\\dservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC28CD42-278E-426E-B8AB-971508C69891}|Model\\Model.csproj|g:\\fyp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC28CD42-278E-426E-B8AB-971508C69891}|Model\\Model.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478265B7-7A96-445C-9505-EEA7A51CD966}|API\\API.csproj|g:\\fyp\\api\\mongomodel\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478265B7-7A96-445C-9505-EEA7A51CD966}|API\\API.csproj|solutionrelative:api\\mongomodel\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E225CF-BF6E-4A1A-8582-716ED7E7D94B}|C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\downloads\\blazorapp1\\blazorapp1\\blazorapp1\\blazorapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T05:35:52.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDashboard.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Components\\Pages\\UserDashboard.razor",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Components\\Pages\\UserDashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T21:40:26.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Service\\DService.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Service\\DService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:36:03.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "G:\\FYP\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "G:\\FYP\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:35:41.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Service\\UService.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Service\\UService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:20:41.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlazorApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T21:20:38.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:11:31.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDoc.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Components\\Pages\\FormDoc.razor",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Components\\Pages\\FormDoc.razor",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAQwNMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T21:08:49.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormUser.razor",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Components\\Pages\\FormUser.razor",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Components\\Pages\\FormUser.razor",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T21:07:36.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Service\\IDService.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Service\\IDService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:36:04.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "G:\\FYP\\API\\MongoModel\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "API\\MongoModel\\MongoDbSettings.cs",
+              "ToolTip": "G:\\FYP\\API\\MongoModel\\MongoDbSettings.cs",
+              "RelativeToolTip": "API\\MongoModel\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T21:29:58.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
