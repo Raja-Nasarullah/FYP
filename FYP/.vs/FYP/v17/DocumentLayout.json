@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\FYP\\",
+  "WorkspaceRootPath": "D:\\FYP\\FYP\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{33E225CF-BF6E-4A1A-8582-716ED7E7D94B}|C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\downloads\\blazorapp1\\blazorapp1\\blazorapp1\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -27,11 +27,11 @@
       "AbsoluteMoniker": "D:0:0:{33E225CF-BF6E-4A1A-8582-716ED7E7D94B}|C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj|c:\\users\\pc\\downloads\\blazorapp1\\blazorapp1\\blazorapp1\\service\\dservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC28CD42-278E-426E-B8AB-971508C69891}|Model\\Model.csproj|g:\\fyp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CC28CD42-278E-426E-B8AB-971508C69891}|Model\\Model.csproj|d:\\fyp\\fyp\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC28CD42-278E-426E-B8AB-971508C69891}|Model\\Model.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{478265B7-7A96-445C-9505-EEA7A51CD966}|API\\API.csproj|g:\\fyp\\api\\mongomodel\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{478265B7-7A96-445C-9505-EEA7A51CD966}|API\\API.csproj|d:\\fyp\\fyp\\api\\mongomodel\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{478265B7-7A96-445C-9505-EEA7A51CD966}|API\\API.csproj|solutionrelative:api\\mongomodel\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -82,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "User.cs",
-              "DocumentMoniker": "G:\\FYP\\Model\\User.cs",
+              "DocumentMoniker": "D:\\FYP\\FYP\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
-              "ToolTip": "G:\\FYP\\Model\\User.cs",
+              "ToolTip": "D:\\FYP\\FYP\\Model\\User.cs",
               "RelativeToolTip": "Model\\User.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,8 +118,7 @@
               "ToolTip": "C:\\Users\\pc\\Downloads\\BlazorApp1\\BlazorApp1\\BlazorApp1\\Program.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T21:11:31.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T21:11:31.172Z"
             },
             {
               "$type": "Document",
@@ -155,9 +154,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MongoDbSettings.cs",
-              "DocumentMoniker": "G:\\FYP\\API\\MongoModel\\MongoDbSettings.cs",
+              "DocumentMoniker": "D:\\FYP\\FYP\\API\\MongoModel\\MongoDbSettings.cs",
               "RelativeDocumentMoniker": "API\\MongoModel\\MongoDbSettings.cs",
-              "ToolTip": "G:\\FYP\\API\\MongoModel\\MongoDbSettings.cs",
+              "ToolTip": "D:\\FYP\\FYP\\API\\MongoModel\\MongoDbSettings.cs",
               "RelativeToolTip": "API\\MongoModel\\MongoDbSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
